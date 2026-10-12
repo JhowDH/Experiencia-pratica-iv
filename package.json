@@ -1,0 +1,29 @@
+{
+  "name": "experiencia-pratica-iv",
+  "version": "1.0.0",
+  "description": "Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento Front-end. O Instituto Novo Horizonte é uma organização fictícia criada para apresentar uma página institucional de uma ONG.",
+  "main": "script.js",
+  "directories": {
+    "doc": "docs"
+  },
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhowDH/Experiencia-pratica-iv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JhowDH/Experiencia-pratica-iv/issues"
+  },
+  "homepage": "https://github.com/JhowDH/Experiencia-pratica-iv#readme",
+  "devDependencies": {
+    "vite": "^8.3.4"
+  }
+}
